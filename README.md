@@ -15,7 +15,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-SQL" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="right" alt="Matheus_PIC" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/871905720390545500/892550951301427251/Webp.net-gifmaker_1.gif">
     
  ##
  
