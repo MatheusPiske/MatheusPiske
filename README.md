@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente no hospital Santa Catarina
 - 🌱 Estou estudando Machine Learning e Banco de Dados
 - 👯 Acredito que o bom Networking ajuda demais na carreira
-- 🤔 Questionamento é essencial para sanar suas dúvidas
+- 🤔 Questionamento é essencial para sanar as dúvidas
 - ⚡ A música torna os momentos mais especiais
 
 <div align="center">
