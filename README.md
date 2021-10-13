@@ -1,10 +1,10 @@
 ### Salvee! Me chamo Matheus 👋
 
-- 🔭 Trabalho atualmente no hospital Santa Catarina
+- 🔭 Trabalho atualmente no Hospital Santa Catarina
 - 🌱 Estou estudando Machine Learning e Banco de Dados
-- 👯 Acredito que o bom Networking ajuda demais na carreira
-- 🤔 Questionamento é essencial para sanar as dúvidas
-- ⚡ A música torna os momentos mais especiais
+- 👯 Acredito que o bom Networking é essencial na carreira
+- 🤔 O questionamento nos leva a caminhos menos turbulentos 
+- ⚡ Música torna os momentos mais especiais
 
 ##
 
