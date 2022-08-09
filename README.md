@@ -1,10 +1,10 @@
 ### Salvee! Me chamo Matheus 👋
 
-- 🔭 Trabalho atualmente no Hospital Santa Catarina
-- 🌱 Estou estudando Machine Learning e Banco de Dados
-- 👯 Acredito que o bom Networking é essencial na carreira
-- 🤔 O questionamento nos leva a caminhos menos turbulentos 
-- ⚡ Música torna os momentos mais especiais
+- 🔭 Trabalho atualmente no Hospital Santa Catarina;
+- 🌱 Estudo Data Science e Desenvolvimento Web;
+- 👯 Acredito que o bom networking é essencial na carreira;
+- 🤔 O questionamento nos leva a caminhos menos turbulentos;
+- ⚡ Música torna os momentos mais especiais.
 
 ##
 
@@ -25,8 +25,7 @@
  ##
  
 <div> 
- <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "matheus.piske14b@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/matheus-henrique-piske-de-araujo-835733223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/fd602h7uuuknwzsllqmktszox" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
