@@ -1,7 +1,7 @@
 ### Salveee! Me chamo Matheus 👋
 
-- 🔭 Trabalho atualmente no Hospital Santa Catarina;
-- 🌱 Estudo Data Science e Desenvolvimento Web;
+- 🔭 Trabalho atualmente na Lince Tech;
+- 🌱 Sou desenvolvedor web;
 - 👯 Acredito que o bom networking é essencial na carreira;
 - 🤔 O questionamento nos leva a caminhos menos turbulentos;
 - ⚡ Música torna os momentos mais especiais.
@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/MatheusPiske">
+  <a href="https://github.com/MatheusPiske"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusPiske&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPiske&theme=blue-green"/>
 </div>
@@ -25,7 +25,7 @@
  ##
  
 <div> 
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"   </a> 
   <a href="https://www.linkedin.com/in/matheus-henrique-piske-de-araujo-835733223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/fd602h7uuuknwzsllqmktszox" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
