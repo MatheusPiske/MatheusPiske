@@ -27,5 +27,5 @@
 <div> 
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"   </a> 
   <a href="https://www.linkedin.com/in/matheus-henrique-piske-de-araujo-835733223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/fd602h7uuuknwzsllqmktszox" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://music.youtube.com/channel/UC_R_9QKKtfuo5vVnhQ7o2ZA" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?&style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
